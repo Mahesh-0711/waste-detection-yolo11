@@ -1,0 +1,358 @@
+image,error
+D:\waste_detection_project\content\waste_detection\train\images\000000_jpg.rf.0125b91ff6ad41e26a8f777c167c6404.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\000001_jpg.rf.d4a9ca06c7fdae1f91ae56511dc47365.jpg,line_2: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\000004_jpg.rf.43f011407b1a7e7f43607ac959b43a7a.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\000005_JPG.rf.49b41333e62b1d9417052520dd0a2686.jpg,line_6: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\000007_JPG.rf.7d94f5ffa7afa1c584d9ccdb8fd3233e.jpg,empty_label
+D:\waste_detection_project\content\waste_detection\train\images\000007_JPG.rf.8b0aa6432550b63273852bf75955762e.jpg,empty_label
+D:\waste_detection_project\content\waste_detection\train\images\000007_JPG.rf.dd2a57f52bf757da33731dd9d4d46b8c.jpg,empty_label
+D:\waste_detection_project\content\waste_detection\train\images\000008_JPG.rf.48917079f4e6bcf8713e03d3ad2674ba.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\000008_jpg.rf.c4728b512008002a63c1fc6c89a092a6.jpg,line_3: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\000008_jpg.rf.f51210d365f562b54026e117b7d0e861.jpg,line_3: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\000009_jpg.rf.63a572e3b7044e33eb42b212f44b2a92.jpg,line_5: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\000010_jpg.rf.4d358dd5df5b3f69e33bfbfdaff46e62.jpg,line_2: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\000010_jpg.rf.4d358dd5df5b3f69e33bfbfdaff46e62.jpg,line_3: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\000012_jpg.rf.2957285c168b5fb2baa136ede35d3dd0.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\000012_jpg.rf.2f7c7e182762d0fa31454c4ebd14e0f2.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\000012_JPG.rf.6a75773e242a98dee7cb90b5a70a6fff.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\000012_jpg.rf.ac9796665a6bc6164617f7cca88234ef.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\000012_jpg.rf.b52d26bd910e1de078a67df77ab28451.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\000014_jpg.rf.d40b0fd5f40bcf39e5dadb9dc3eb7f0b.jpg,line_4: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\000015_JPG.rf.bc761cc7c0533c44e5f2ff5c20a66e10.jpg,line_13: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\000019_jpg.rf.46246d22da4e7d42d1c485bd6122c4de.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\000021_JPG.rf.e020649106609ee8d8d7a09db912d15e.jpg,line_3: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\000022_jpg.rf.9a2efd684aeeae7d6d3ab3259d0e9e10.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\000023_jpg.rf.70e66a6a82974788157fb683f924b109.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\000027_JPG.rf.93f2d99702cd87b531d63eacc8603c0d.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\000028_jpg.rf.bf3b343ec448a5f784abf7f750f0e03c.jpg,line_5: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\000029_jpg.rf.50fa8e410900cf584b9383bd666886e5.jpg,line_13: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\000032_jpg.rf.94905a07c8846e0b4191a6854125d9f6.jpg,line_3: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\000033_jpg.rf.358674d40c15f0a66c1e88f3602d0e87.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\000034_jpg.rf.8638b4222aeed60b8c44225b5a1be578.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\000035_jpg.rf.5aa2a6200ed36cf3f378d5eb60415e02.jpg,empty_label
+D:\waste_detection_project\content\waste_detection\train\images\000035_jpg.rf.b2f006ecaa788a4ca2b846a70c5ad74c.jpg,empty_label
+D:\waste_detection_project\content\waste_detection\train\images\000035_jpg.rf.d803ddfa2b9aef53266467b5400367b7.jpg,empty_label
+D:\waste_detection_project\content\waste_detection\train\images\000040_jpg.rf.8add1e67edcf6101388de7a726e3e129.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\000045_JPG.rf.abd717e2c61eaef5a7f4dfe733566c42.jpg,line_2: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\000048_jpg.rf.38d5a64691901498591201288ee06121.jpg,line_2: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\000049_JPG.rf.70149855c3f2b8034adf03b5ab81f32a.jpg,line_5: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\000049_JPG.rf.75711d5896789c544e4d586fea31b7fe.jpg,line_2: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\000053_jpg.rf.ba520c02a196a1c4fc5e90c810a19a0b.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\000055_jpg.rf.183702c9bb98c0ac6f4e2700d96c99ac.jpg,empty_label
+D:\waste_detection_project\content\waste_detection\train\images\000055_jpg.rf.5b4d26e1f18c9da17e3550be201fa9aa.jpg,empty_label
+D:\waste_detection_project\content\waste_detection\train\images\000055_jpg.rf.ddf411abd4fa9b1a32dd97790fc2c30c.jpg,empty_label
+D:\waste_detection_project\content\waste_detection\train\images\000056_jpg.rf.3ecccbccb8c6f9573d586eae7a733ab7.jpg,empty_label
+D:\waste_detection_project\content\waste_detection\train\images\000056_jpg.rf.7c8780730686c99464a1233e670cccac.jpg,empty_label
+D:\waste_detection_project\content\waste_detection\train\images\000056_jpg.rf.d7e0bd347d57bb1680da8b938d5ee2d3.jpg,empty_label
+D:\waste_detection_project\content\waste_detection\train\images\000059_jpg.rf.a022f9d5269fcdf0543f57f35f65a939.jpg,line_6: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\000060_jpg.rf.19f9d0a792fcda1def7fbec447518d45.jpg,empty_label
+D:\waste_detection_project\content\waste_detection\train\images\000060_jpg.rf.4ab3f289ef1ab5658a043f39a86cedef.jpg,empty_label
+D:\waste_detection_project\content\waste_detection\train\images\000061_jpg.rf.71d1d5cb23742f4fe6ff1d0e3a58b81e.jpg,line_2: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\000062_JPG.rf.570d3c29229f1283dac78f814e7898e2.jpg,line_10: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\000064_JPG.rf.3535c93f88cdb0702595cc78dfd803c9.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\000064_jpg.rf.fa2934da839b3cef064a49202c5dd78b.jpg,line_7: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\000069_jpg.rf.33cd07487b6f4785dbf50e0499a3ce5f.jpg,empty_label
+D:\waste_detection_project\content\waste_detection\train\images\000069_jpg.rf.ec42e15ab17b508947fb4fb4d05460f3.jpg,empty_label
+D:\waste_detection_project\content\waste_detection\train\images\000069_jpg.rf.f9860a00d8546fdad5a4a654a7209407.jpg,empty_label
+D:\waste_detection_project\content\waste_detection\train\images\000071_JPG.rf.f2742052523c82d72719bdd918497b3f.jpg,line_2: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\000073_jpg.rf.1e10444c3137e41adae77aa17154f6ea.jpg,line_2: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\000076_jpg.rf.78d92035f53d6ed2ac6f1295e4ca0339.jpg,line_5: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\000076_jpg.rf.78d92035f53d6ed2ac6f1295e4ca0339.jpg,line_6: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\000077_JPG.rf.46c7002a7e2c016a4fc4e38bbfde947e.jpg,line_2: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\000080_jpg.rf.6daca0819587051f84dd3147a3b88393.jpg,line_11: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\000081_JPG.rf.dd5505ce35ba3519bd0e6b70afd99377.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\000085_JPG.rf.175604189d1c756f4ab2d99790b65b21.jpg,line_8: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\000085_JPG.rf.175604189d1c756f4ab2d99790b65b21.jpg,line_14: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\000085_jpg.rf.2a91dd61793768a99d06eba779de65cc.jpg,line_8: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\000085_JPG.rf.b33a1d2d2c5b9146280e43ec2e2df764.jpg,line_14: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\000086_jpg.rf.1041fa4b13f49c1944d472e6aabbbdc2.jpg,empty_label
+D:\waste_detection_project\content\waste_detection\train\images\000086_jpg.rf.427ca02a7c5ea3efff43fed664545595.jpg,empty_label
+D:\waste_detection_project\content\waste_detection\train\images\000086_jpg.rf.8927187e1d75d17b8991f531044fd096.jpg,empty_label
+D:\waste_detection_project\content\waste_detection\train\images\000088_jpg.rf.38cfa26cb8141cee8b1d8e51238cf4b0.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\000091_JPG.rf.0a32ca02eb3ec12d2b2eb045d1b4e42d.jpg,empty_label
+D:\waste_detection_project\content\waste_detection\train\images\000091_JPG.rf.56ab424858fe1b731bc94f4c1241dea1.jpg,empty_label
+D:\waste_detection_project\content\waste_detection\train\images\000091_JPG.rf.7bbf58789cd5ed630871ee9fe3301419.jpg,empty_label
+D:\waste_detection_project\content\waste_detection\train\images\000092_jpg.rf.512863f768b6135da2c46a586aac381b.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\000097_JPG.rf.148a61d77957ea935447fe3d630a8f05.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\000125_JPG.rf.d90f9afa65e902d5b068fb84df7ae011.jpg,line_3: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\000141_JPG.rf.6b70531bad22c4eb973a7d36dd410d9a.jpg,empty_label
+D:\waste_detection_project\content\waste_detection\train\images\000141_JPG.rf.8c385f0c8e87876a49daaef2272706af.jpg,empty_label
+D:\waste_detection_project\content\waste_detection\train\images\000141_JPG.rf.bcd1c7e5afefb05ed849b537c71d7c76.jpg,empty_label
+D:\waste_detection_project\content\waste_detection\train\images\glass103_jpg.rf.bf9f3f08e4bece06a9f5ac1565443755.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\glass104_jpg.rf.a206e31a6eec8a915f2a9c84aa924c02.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\glass106_jpg.rf.4e9dc6d43e53307eaf59e11235ca1b5d.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\glass107_jpg.rf.5bd3ab5a62c8d32ae7503008912c33b0.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\glass109_jpg.rf.018c27a81029a6ee685993c0e67e16b4.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\glass109_jpg.rf.95a8293f19a930de6ee48122df29a570.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\glass112_jpg.rf.d61b4c3c4c35c99a4b258df5edb59bc1.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\glass116_jpg.rf.00f125d3518c61bfec9d71b82cdf8266.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\glass122_jpg.rf.28356a66d36cea0ccc384e7f9707bfaa.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\glass122_jpg.rf.bf5e73d2cc0a98e23838dcd9aae88758.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\glass123_jpg.rf.83c63c2e8d4aebb50d40d9051690bc64.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\glass125_jpg.rf.0f6d12c6e8d0bfa0e09d0590468b9bc3.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\glass129_jpg.rf.f43ae9c728e23ec78237b7f8fb5f9f7a.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\glass130_jpg.rf.c15664d6f3d46d7e2018383a9a688260.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\glass133_jpg.rf.f2b196caa379e35847fcc09a9b5ac9d5.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\glass137_jpg.rf.98c5b7a0d1968dac92821062e431d48b.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\glass141_jpg.rf.2d2c876b6a3f6af874a036d0f2f6cb01.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\glass141_jpg.rf.e67f5e734d2ff27f5911623e939ad2e0.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\glass143_jpg.rf.7bc288dddde38bd6ed683f05732a76f1.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\glass148_jpg.rf.ed619a2db99e00a5332ec2851a8fc7fd.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\glass155_jpg.rf.37a3ad8de2fc28bb2ba62116cc99480c.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\glass155_jpg.rf.e76d39f73434767c4667a59c2625df30.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\glass156_jpg.rf.2f6991a53e193986e25aeb133251749b.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\glass162_jpg.rf.6681de5002f431814517c25ffaeb275d.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\glass162_jpg.rf.e0d7d82fb9c20f2e312b403417f4afca.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\glass165_jpg.rf.6d664bb5286e73eae43b137a5a9c0694.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\glass165_jpg.rf.caf496acd58f0f736b7edf213c82391a.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\glass174_jpg.rf.2e81daa218d917dadfa0143cd7c712db.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\glass177_jpg.rf.d7c904e38fb41af7fd66e3e2e19c71db.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\glass17_jpg.rf.3de0d1162de841ee20debc58c46b52ff.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\glass17_jpg.rf.75f2cbb973e99a63c1422ba2c964a28a.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\glass18_jpg.rf.160f6edcd043e520f2d415f495a45388.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\glass18_jpg.rf.2add72c30ddc475853970296709fee7a.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\glass18_jpg.rf.a46377df4fc4b74a12441da62756814a.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\glass190_jpg.rf.086e60d5d08d5672f7c962aa05bb3c9e.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\glass190_jpg.rf.a8c3793b1a4f88bcb3e96aae07e17dca.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\glass19_jpg.rf.40bf20cc3fc87cbf64407bb4e2434e9e.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\glass200_jpg.rf.6f9b655b2af626d13f2af23e2569817d.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\glass205_jpg.rf.a80dddfb13abd2b58943bc93bce6a9b0.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\glass21_jpg.rf.0fdb0b0b49809451dac90586e68c4be9.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\glass226_jpg.rf.d33d320c050f4d905e033812a4b2199a.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\glass239_jpg.rf.82b4c7ae61fe778659af3aa871016472.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\glass240_jpg.rf.9544afbe2df9c2c13f390dde22a1c23d.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\glass241_jpg.rf.dac84f93411ffe6b3863ea50ffa7ee46.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\glass260_jpg.rf.b88d93dc0221f90de3277beed6863808.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\glass266_jpg.rf.8649613a1c3c9e512a76caa06d8b1dea.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\glass267_jpg.rf.f75ccce018316b1714588a160596a790.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\glass268_jpg.rf.f5663f28a91c6159149dc9b4e9a56ada.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\glass269_jpg.rf.0d777230dbf02c42529771a9469005b8.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\glass271_jpg.rf.265bb8ac4ff60b272830bd277f3f7411.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\glass395_jpg.rf.ef071f28057b4378330cb132ae153a1e.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\glass396_jpg.rf.89bf9219524ab63a1ee2b8e859203ee0.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\glass397_jpg.rf.ea757c3277daaff935927952cc843395.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\glass407_jpg.rf.9e097c4ecba26d06c004ea33d10919e8.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\glass407_jpg.rf.e828c19edb3135c079a3943c85babe36.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\glass431_jpg.rf.0d28a476f1ab5a5c06c3dc1887afe8df.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\glass445_jpg.rf.20eb951d8f31243db021f4d247d965c5.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\IMG_4875_JPG.rf.789c8cf971ce3f0dd6519f688cc900f0.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\IMG_4898_JPG.rf.6b44e23f47ca9f0355df734b55b69b56.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\IMG_4926_JPG.rf.f10e3162481aef27a835b951b5bfd19f.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\IMG_4941_JPG.rf.bd9e46d1c5315a8501d74865c65a8550.jpg,line_10: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\IMG_4948_JPG.rf.c3c582a6c69bb619ebf5dda8ad34ad72.jpg,line_10: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\IMG_4950_JPG.rf.f85122190cbfbcc2195132826fbe2bd5.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\IMG_5066_JPG.rf.1bc96b815a3ea369eec35a0cc922da97.jpg,line_3: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\IMG_5068_JPG.rf.66265045d598c5eae0a34a238abe65d6.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\metal104_jpg.rf.d8229373fd403cfbc46ab457f3d85bf5.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\metal111_jpg.rf.695e2f9577fd612d91d7d645770bf3f2.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\metal111_jpg.rf.d5107c62561a13202e240de055a0d902.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\metal112_jpg.rf.846df66d55e7d78e3f548a0350ccce65.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\metal113_jpg.rf.8a77e45fa46d02a8870bba87b3931ec6.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\metal120_jpg.rf.8fae6fd9eda2391d924d1fd6fa43a1e1.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\metal123_jpg.rf.33eada8bb835686a14114567fa0f5c3c.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\metal123_jpg.rf.9148cbb4df0866ba69c776692a022ee5.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\metal125_jpg.rf.9056ffa1f1978660a5e80e0c8aa6b784.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\metal129_jpg.rf.d09a5caafd5e1c9bb9420b37ef6f751d.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\metal134_jpg.rf.01af888ad4f85bd56de0ba84db5c5b25.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\metal134_jpg.rf.753148a242b35f228f3a00677e0c4e12.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\metal13_jpg.rf.5d46ab3ec9fad919a11c130281fa92a4.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\metal168_jpg.rf.0a819f0260c80cc11ca4b5b9b9f97745.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\metal168_jpg.rf.63a4f0c803c9c0f1f31bbee668ccf5f5.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\metal174_jpg.rf.30c9b535644c2360c2da56f1a2fd5b1b.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\metal174_jpg.rf.ec8d524b7a52250b99710a45e7676d8c.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\metal176_jpg.rf.2ae1a7a85bb8d05420059aaf973c84af.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\metal187_jpg.rf.d238044267b7437b06a396efc3e0d67a.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\metal196_jpg.rf.51eb005f7da8bbc29ee315b6f0318ad5.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\metal200_jpg.rf.6f0a6ed394bb5edc8b88ac377879eab4.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\metal200_jpg.rf.80ad23475509fcdf8b40da885cf70ef0.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\metal217_jpg.rf.112fa69622c8e927ce1ddbbfc940cf12.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\metal224_jpg.rf.0816801ce8e01c22be2e4248122e3a91.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\metal227_jpg.rf.fb0f3c1c4c07ce11572d1a298c75cb51.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\metal232_jpg.rf.ea01460df7c0b65f4e10d4ce8b9e08b8.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\metal234_jpg.rf.2ba88d858c62df71f6400ad94322b7f9.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\metal237_jpg.rf.c19fe58c7b708b6fad4bab0fd970ba08.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\metal23_jpg.rf.c984cdf49afe40f9e2ac45a11a5b9f2e.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\metal243_jpg.rf.9cb6db8e1cd73ff8b625794c1210f853.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\metal247_jpg.rf.7f263706a37c1b58edec1954bb6e15ee.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\metal249_jpg.rf.54cc154b9403d6e88143c98ef4537c2c.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\metal251_jpg.rf.9ab2c0774ca15bca46fb84f2bff3b030.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\metal256_jpg.rf.baa36197c826705c4b650e4369224c7e.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\metal258_jpg.rf.09a66c63172876cce48d9d4d8c008684.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\metal261_jpg.rf.be476ef783db4585b3bd82c7030cc191.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\metal262_jpg.rf.5db8c068f227ceaad17bb3d366c27953.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\metal262_jpg.rf.fdab2283f7a8f1738a4064162080a393.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\metal271_jpg.rf.2e937abc186125ea0fa9ea672567dbf6.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\metal273_jpg.rf.1ffde0faa6ef30fb3ad9a45d970e2581.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\metal274_jpg.rf.edb1fe63ce2f4c88a4245ff95e6f3a3f.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\metal276_jpg.rf.b6cf4214cc25d578580414f44af66bf1.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\metal286_jpg.rf.f9dc9c5a10d8bb696151f243aa064a49.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\metal289_jpg.rf.119137baaab43bd1a5b8bc7b43d62aa0.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\paper100_jpg.rf.08196d722c44164c9cff8c7c2134817a.jpg,line_2: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\paper100_jpg.rf.08196d722c44164c9cff8c7c2134817a.jpg,line_3: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\paper101_jpg.rf.0ad26f4b2601a72e22199877a33f75d1.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\paper103_jpg.rf.30d84895eaf38724abad30dba6a6e97d.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\paper106_jpg.rf.a9f94e878ca5198c43b9161c5f3c18f4.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\paper10_jpg.rf.5b1da1a35f21302e7d6357cb8910d0ce.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\paper112_jpg.rf.c6aed046f2487e07f186f15ec3a7b1d5.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\paper114_jpg.rf.40759c1925c861336a28d970ad337657.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\paper118_jpg.rf.e506e90b8a03906d84f41a7a3654b8ff.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\paper127_jpg.rf.9ccf626813de804069b6f29dd7429c1f.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\paper128_jpg.rf.44f95b4bd3e5608e8b3bb269913a0e18.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\paper129_jpg.rf.5ea3a9f6a8f478416ac78a076ade2ad0.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\paper12_jpg.rf.584082bcc05b1e2afd19bd8028f0bf8e.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\paper12_jpg.rf.f3ca6288b58b830692c414c22df9514e.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\paper131_jpg.rf.42f5d94731babe2df34a525b99182d46.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\paper133_jpg.rf.d489530f60845d9770aac6db59e1a8e6.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\paper137_jpg.rf.b752a504f33cb3bd27bb633a266295b1.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\paper140_jpg.rf.eb7686211d8f0d2a15c737e3a37c7a72.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\paper156_jpg.rf.927615793a62b94a9343bf848ed15054.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\paper15_jpg.rf.05dfed7e366b2df4f08bac8b05072244.jpg,empty_label
+D:\waste_detection_project\content\waste_detection\train\images\paper15_jpg.rf.1fab5618c0def2fde8c73292979aadc3.jpg,empty_label
+D:\waste_detection_project\content\waste_detection\train\images\paper15_jpg.rf.244f7e51986dafb62d7cc14381effb00.jpg,empty_label
+D:\waste_detection_project\content\waste_detection\train\images\paper161_jpg.rf.63a6dadbc55d60e16d89946a014f9466.jpg,empty_label
+D:\waste_detection_project\content\waste_detection\train\images\paper161_jpg.rf.836e263b4d7bcaed8c809b6c75b9066a.jpg,empty_label
+D:\waste_detection_project\content\waste_detection\train\images\paper161_jpg.rf.d4d0c3e10c1b388d464f2296768e5603.jpg,empty_label
+D:\waste_detection_project\content\waste_detection\train\images\paper166_jpg.rf.e13d18537393a53a755ad0f83fb76d95.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\paper166_jpg.rf.e1bf1a19aef03dc5dcb1f73d9c77ce35.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\paper175_jpg.rf.a3346bad49a89db02795fbe5c766f5d8.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\paper175_jpg.rf.e330c3a4b976bbebb1ed30377c2a19f4.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\paper179_jpg.rf.5ac56c62efdcbaa90aa498a86ae984ea.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\paper186_jpg.rf.12e19ddd460e7f2858aba63093c2d308.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\paper186_jpg.rf.7887da0f58c54c999230bacefa3378a2.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\paper187_jpg.rf.db6dd5c0ea5d491a3890a90fd1f14b5a.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\paper202_jpg.rf.7f910155cfedc79a998b801a731fb41d.jpg,empty_label
+D:\waste_detection_project\content\waste_detection\train\images\paper202_jpg.rf.bf6c5441aaea0dc6a8d73be6c94b398b.jpg,empty_label
+D:\waste_detection_project\content\waste_detection\train\images\paper202_jpg.rf.f6dff298219ec38b12f8fc0d0c0191ea.jpg,empty_label
+D:\waste_detection_project\content\waste_detection\train\images\paper206_jpg.rf.0d46895592d12207a25615d25c8d56e9.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\paper210_jpg.rf.185dfeb3f931c94c52cb70bc775c27d6.jpg,empty_label
+D:\waste_detection_project\content\waste_detection\train\images\paper210_jpg.rf.4ed3c6a3febd5f2cdd133fd196a4069d.jpg,empty_label
+D:\waste_detection_project\content\waste_detection\train\images\paper210_jpg.rf.b021f860756b0f2465b3323691b66b1d.jpg,empty_label
+D:\waste_detection_project\content\waste_detection\train\images\paper229_jpg.rf.31da3b501099a74cdc7651c28938e03c.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\paper232_jpg.rf.6807c1b4bd625ba0f2c4973379bf25de.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\paper232_jpg.rf.bfded1f98b27df2b18adc0c2dc5abbb8.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\paper236_jpg.rf.21ca6c909fd64dbc29acc10ea0889505.jpg,empty_label
+D:\waste_detection_project\content\waste_detection\train\images\paper236_jpg.rf.cb8acc0568e9bedbb869954bf9c05932.jpg,empty_label
+D:\waste_detection_project\content\waste_detection\train\images\paper236_jpg.rf.ec5c6909e257abdad18bc785afa08c87.jpg,empty_label
+D:\waste_detection_project\content\waste_detection\train\images\paper237_jpg.rf.3fa4bce330bdab404f5d5e3478eae9ce.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\paper237_jpg.rf.a1786ffec4840ad4d3a944228fac840c.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\paper238_jpg.rf.f1d5735763db0c97df496ccfaccce7df.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\PET1-176_jpg.rf.4eca8c9cd4ff5377d0a1219971819919.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\PET1-180_jpg.rf.a998576096306541d4eb703255ad0f0f.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\PET1-205_jpg.rf.06655c252af5d26e0731378acf075244.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\PET1-208_jpg.rf.e998e24109da0078ac767c1a8e477f5b.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\PET1-208_jpg.rf.e9c54d6ce0ece22ed788aec3a7f75ba4.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\PET1-256_jpg.rf.c414d4e8922708dc0c5c9cec2b4116ac.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\PET1-425_jpg.rf.e855d3e4496c7c1121e15ea19d9023a5.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\PET1-510_jpg.rf.18052d29ae93133257bbf5995c420573.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\PET1-517_jpg.rf.a3509e0064874f9f9f900280f4a8d6e4.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\PET1-520_jpg.rf.d959084f0825ea96d9c1ed8adf6bea01.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\PET1-521_jpg.rf.497804e81e0dd6dfd770c3be2c8ded26.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\PET1-529_jpg.rf.32f81a1dae73833c89fcaeafd7af0285.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\PET1-530_jpg.rf.969519bf9e1c7c30972bdd3f5feb726f.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\PET1-530_jpg.rf.d0c38d58e0930104375d1d5e84b56a50.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\PET1-532_jpg.rf.718b53e29a3937204818a8719a481071.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\PET1-532_jpg.rf.cbffcbfc03e5895e6a8046e2c9146eb7.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\PET1-535_jpg.rf.a5c1c49be3fc9819af29a3363c349eaf.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\PET1-539_jpg.rf.7e75483339c2f40fa041ccbeadddb6e1.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\PET1-544_jpg.rf.8b7da9c8a3c522d189cb1588c65e1594.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\PET1-545_jpg.rf.943a253070aedb0d8551fb4f9a427f71.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\PET1-547_jpg.rf.517510d0aaf194832e1a9486ed2539ca.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\PET1-551_jpg.rf.461ef3618e5f210a05b2606fbf165399.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\PET1-551_jpg.rf.57892ce8285d782e7f891725096a5036.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\PET1-552_jpg.rf.766bfb1a616399e3eac2cf1133f71e7d.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\PET1-558_jpg.rf.06dbb83d1d350ca3d1588f1ff320368e.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\PET1-560_jpg.rf.f491912ecc92e0355b2f9ed9670799fc.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\PET1-639_jpg.rf.fbeef00cbe2d15fabbc535d97131c554.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\PET1-654_jpg.rf.2360b04805830a7cf757026c65d40104.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\PET1-654_jpg.rf.b2094151284414008d4e70e25237cbc6.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\PET1-664_jpg.rf.06dfbd02f4b21e92eecc421de8e00d47.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\PET1-665_jpg.rf.632f45b6d36934f71cd26ffa85b5f95d.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\PET1-665_jpg.rf.abe0e44a18901eb4ae6e6d010497aef9.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\PET1-669_jpg.rf.53eb1a85a7170d5545abfccd8d7d3b65.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\PET1-671_jpg.rf.d96ddb593859ad307037e0a5047e25c2.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\PET1-676_jpg.rf.deb0fcf638b6d42e5ebf0aa965ccf3e4.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\PET1-680_jpg.rf.c0612476388dd45473c49e4fac807a5a.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\PET1-683_jpg.rf.3b982d4afee558db5a60d07b03198529.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\PET1-684_jpg.rf.a376576d87dd60cdc317b2ac1cca21c9.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\PET1-687_jpg.rf.a6be73924c34480d9293bbd41a31d9f8.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\PET1-687_jpg.rf.ed73dd3a67b8fcff28953d1919574dcb.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\PET1-691_jpg.rf.fc87d22c245149433a02b40db7a56f1f.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\PET1-692_jpg.rf.3317c88de6f6acefe2cf6f1fd5f68e1b.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\PET1-696_jpg.rf.045853f925972bd9c4f3ead66cff6958.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\PET1-704_jpg.rf.f66044071b655cfb2cced301ba1aea96.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\PET1-705_jpg.rf.e4a861b50411fad398e47ca421233cc1.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\PET1-706_jpg.rf.a723f3eecad1cd900fe1b49f50b0f95e.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\PET1-709_jpg.rf.a64c35b9d50755564b970dfc63c3a7eb.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\PET1-720_jpg.rf.810b79a2b27bcd66afb1d88ad1432e94.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\PET1-755_jpg.rf.3b9e8813d356fe1592e80b0b75a696b1.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\PET331_jpg.rf.28f26dbdb7e3d8060a88abfd5b97fa9f.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\PET333_jpg.rf.71816cf18905bc59b40ecdf03e2ce073.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\PET342_jpg.rf.34fc1f157916855ca42f9f28d025d807.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\PET736_jpg.rf.86eb2dfb8dab45f1c415045f0c35fa45.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\plastic390_jpg.rf.da1a3fec62622a88152a61138c0e0d45.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\plastic39_jpg.rf.2b1c5d23cfdd3723585ce56a7861c420.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\plastic39_jpg.rf.c5b1706c9d7838b7db8c643263730a97.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\plastic400_jpg.rf.7da7278c437d3c6634dc51dcd9ccbae1.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\plastic407_jpg.rf.368a7a45178a759237278b08c19181b3.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\plastic407_jpg.rf.459d9d04446079dd139de618842fb9bf.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\plastic411_jpg.rf.22363fb3d90787f9e0d021fe00073e53.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\plastic414_jpg.rf.61aba8e15ee87c4ccdb644ef072523f5.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\plastic414_jpg.rf.f7b0abea675c5bfe53a1361a576435d8.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\plastic42_jpg.rf.73a7ec9b996076e1b754474b88e8cc66.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\plastic440_jpg.rf.62bcbd89a2c04b32445a3e7848d00ae6.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\plastic440_jpg.rf.a90f9f45e323df742635ca4b8afa7332.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\plastic443_jpg.rf.d619f9190ce4959b8abbcfb975f16296.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\plastic445_jpg.rf.ef27362b6d994be6e7f894a855c3eb2e.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\plastic456_jpg.rf.93b400531767119c64e68caca95aef17.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\plastic460_jpg.rf.06a74201b7237985fd2fc3c35184777a.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\plastic46_jpg.rf.7aa00ec3d7cc8cde69db9a0d34208778.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\plastic472_jpg.rf.91032ec2b475d98bcb1e35f32cb484aa.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\plastic472_jpg.rf.95f7409e269e6b6e6076e73c33eb9a3d.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\plastic480_jpg.rf.9cf39e8fb1be013386a6cf8884f87c17.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\plastic480_jpg.rf.e5ebf662ff2d1fa7d8e703e4a3f47f1e.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\plastic48_jpg.rf.f80b64e8f98eb2dfb61b0736f25070e7.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\plastic57_jpg.rf.a9d994f4d58b4695a8b047cdf4777966.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\plastic61_jpg.rf.9effa2c4d3142997295938b47f441b1c.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\plastic67_jpg.rf.7a77e1f61db79108a85ebec96a5b391b.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\plastic70_jpg.rf.f5e79791e39ed83649a2023b8d50c4d8.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\plastic71_jpg.rf.5818d047d53327257a07d2ae19c394a3.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\plastic73_jpg.rf.d3c1b36e88e8c4cf3dc90cb6a85d19c6.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\plastic79_jpg.rf.4b60e084baa11897c919066a9af9757a.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\plastic80_jpg.rf.91ffed97551b0abdf79e4002884f324d.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\plastic81_jpg.rf.5600b4ed5b4d4aed1e274a9e92a75074.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\plastic81_jpg.rf.797528e198a0b3af8e89b1db0dfbd9b4.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\plastic82_jpg.rf.43bb93454d7220117b40630caaf49ae5.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\plastic83_jpg.rf.aef2c89e0d487793fb0c9e01c2ea13f7.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\plastic84_jpg.rf.969d1d3baaf36c50557360c0a87e3354.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\plastic84_jpg.rf.af574a37633b85c5ec8cc450ac4a386f.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\plastic86_jpg.rf.25214d67b9bc920029ae68e5b37f745d.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\plastic87_jpg.rf.34f425bbee542e7529acf666aa3f6b67.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\plastic87_jpg.rf.e92fcc93e072b909dc88b6795dc0f13c.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\plastic89_jpg.rf.ce58cc4f9be61111914ab07bbb409587.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\train\images\plastic95_jpg.rf.38a9784535126c408cc483e409936ef6.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\valid\images\000007_jpg.rf.514d21b8d817f41ae2271fd60d935851.jpg,line_2: box_outside_image
+D:\waste_detection_project\content\waste_detection\valid\images\000008_jpg.rf.d1d89d01d63fd906d983d56b9ba153bc.jpg,line_13: box_outside_image
+D:\waste_detection_project\content\waste_detection\valid\images\000036_JPG.rf.7edda94b70485a8b98921945d1274b53.jpg,line_7: box_outside_image
+D:\waste_detection_project\content\waste_detection\valid\images\000045_jpg.rf.649f252299ee5afccd374aa772deed20.jpg,line_2: box_outside_image
+D:\waste_detection_project\content\waste_detection\valid\images\000053_jpg.rf.bdc7b1372a7a9f3406f064151af50417.jpg,line_3: box_outside_image
+D:\waste_detection_project\content\waste_detection\valid\images\000061_jpg.rf.16bd25a68ffdddccd7ba9562be3661a2.jpg,line_2: box_outside_image
+D:\waste_detection_project\content\waste_detection\valid\images\000106_JPG.rf.e93b38225f8f6361e56e8d0cdc78f312.jpg,line_6: box_outside_image
+D:\waste_detection_project\content\waste_detection\valid\images\000127_JPG.rf.d7579aa824fe44d673c737f7eace7620.jpg,line_4: box_outside_image
+D:\waste_detection_project\content\waste_detection\valid\images\000127_JPG.rf.d7579aa824fe44d673c737f7eace7620.jpg,line_5: box_outside_image
+D:\waste_detection_project\content\waste_detection\valid\images\000127_JPG.rf.d7579aa824fe44d673c737f7eace7620.jpg,line_8: box_outside_image
+D:\waste_detection_project\content\waste_detection\valid\images\glass253_jpg.rf.823476c0bc1dbb153e407268643c6c80.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\valid\images\glass265_jpg.rf.a8318caac105f7db52b60af95b554ca7.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\valid\images\IMG_5067_JPG.rf.b3f31a63b9b5460baa93a1fde004f000.jpg,line_2: box_outside_image
+D:\waste_detection_project\content\waste_detection\valid\images\metal11_jpg.rf.0b54fe2a2c655318118e8f7a33898df6.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\valid\images\metal151_jpg.rf.6875f50fa7748df3801cc6b6e85021e5.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\valid\images\metal194_jpg.rf.396884015f3fee3e2971c24b6e8949af.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\valid\images\metal230_jpg.rf.0dc575e29671f4b15fb28217b8ec6689.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\valid\images\metal248_jpg.rf.725bc4030a9964738b496bd500f9c671.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\valid\images\paper109_jpg.rf.42190cabb0e495b84f88862d86a8636b.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\valid\images\PET1-650_jpg.rf.a52835e01af0c8ade34a7d72761f2e98.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\valid\images\plastic166_jpg.rf.5cd3c2c7b50b8a81ccdfe879deaf8895.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\valid\images\plastic217_jpg.rf.6075ac25e61390f4a5fd4ade1264c146.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\valid\images\plastic235_jpg.rf.a9b4b51d88ff058b377d2780141368eb.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\valid\images\plastic24_jpg.rf.95416e57dec3e3fb8eb8b5206eeb4061.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\valid\images\plastic38_jpg.rf.612935de62b7c988c74b104d980cf207.jpg,line_1: box_outside_image
+D:\waste_detection_project\content\waste_detection\test\images\metal223_jpg.rf.0b435a8a304e807166bf2e4fa4c353ff.jpg,line_1: box_outside_image

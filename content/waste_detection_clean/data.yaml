@@ -1,0 +1,12 @@
+path: D:/waste_detection_project/content/waste_detection_clean
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 5
+names:
+  - Glass
+  - Metal
+  - Paper
+  - Plastic
+  - Waste

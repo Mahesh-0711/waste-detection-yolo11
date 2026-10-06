@@ -1,0 +1,18 @@
+YOLO DATASET CLEANING REPORT
+============================================================
+
+images_copied: 6731
+images_removed_duplicate: 52
+boxes_processed: 44426
+boxes_clipped: 679
+invalid_lines_removed: 0
+duplicate_boxes_removed: 0
+empty_labels: 41
+missing_labels: 0
+corrupt_images: 0
+
+IMPORTANT:
+Small objects were NOT removed automatically.
+Empty-label images were preserved for manual review.
+Plastic/Waste labels were NOT automatically changed.
+Semantic class correctness requires visual inspection.
